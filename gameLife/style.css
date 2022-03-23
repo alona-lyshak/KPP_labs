@@ -1,0 +1,28 @@
+#world {
+    padding-bottom: 10px;
+}
+
+table {
+    background-color: whitesmoke;
+    margin: 0 auto;
+    width: fit-content;
+}
+
+td {
+    border: 1px solid darkgray;
+    width: 10px;
+    height: 10px;
+}
+
+td.dead {
+    background-color: transparent;
+}
+
+td.alive {
+    background-color: black;
+}
+
+.btns {
+    margin: 0 auto;
+    width: fit-content;
+}
